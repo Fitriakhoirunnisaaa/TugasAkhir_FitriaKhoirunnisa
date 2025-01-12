@@ -1,0 +1,23 @@
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\MyProject.exe
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\MyProject.deps.json
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\MyProject.runtimeconfig.json
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\MyProject.dll
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\MyProject.pdb
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.Form1.resources
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfo.vb
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.dll
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\refint\MyProject.dll
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.pdb
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.genruntimeconfig.cache
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\ref\MyProject.dll
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\My Project\Resources\error_image.png.png
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\Resources\error_image.png.png
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\Resources\kurus.png.png
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\Resources\normal.png.png
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\Resources\obese.png.png
+C:\Users\user\source\repos\MyProject\MyProject\bin\Debug\net8.0-windows\Resources\overweight.png.png
+C:\Users\user\source\repos\MyProject\MyProject\obj\Debug\net8.0-windows\MyProject.Resources.resources
